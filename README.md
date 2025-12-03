@@ -16,7 +16,22 @@ Paper List about multi-domain graph foundation models
   [Paper](https://arxiv.org/abs/2406.13873) | [Code](https://github.com/SongYYYY/GSP)
 
 
-## General Purpose GFMs
+## Cross-domain Transfer GFMs
+
+- **(WWW 2025)** **GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs**  
+  [Paper](https://arxiv.org/abs/2410.10329) | [Code](https://github.com/ZhuYun97/GraphCLIP)
+
+- **(NeurIPS 2025)** **SSTAG: Structure-Aware Self-Supervised Learning Method for Text-Attributed Graphs**  
+  [Paper](https://arxiv.org/abs/2510.01248) | [Code](https://github.com/Liury925/SSTAG)
+
+- **(NeurIPS 2025)** **GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation**  
+  [Paper](https://arxiv.org/abs/2502.01113) | [Code](https://github.com/RManLuo/gfm-rag)
+
+- **LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models**  
+  [Paper](https://arxiv.org/abs/2503.03313) | [Code](https://github.com/agiresearch/PromptGFM)
+
+
+## General & Adaptive GFMs
 
 - **(NeurIPS 2024)** **GFT: Graph Foundation Model with Transferable Tree Vocabulary**  
   [Paper](https://arxiv.org/abs/2411.06070) | [Code](https://github.com/Zehong-Wang/GFT)
@@ -27,48 +42,8 @@ Paper List about multi-domain graph foundation models
 - **(ICML 2025)** **GraphGPT: Generative Pre-trained Graph Eulerian Transformer**  
   [Paper](https://arxiv.org/abs/2401.00529) | [Code](https://github.com/alibaba/graph-gpt)
 
-- **(NeurIPS 2025)** **Unifying and Enhancing Graph Transformers via a Hierarchical Mask Framework**  
-  [Paper](https://arxiv.org/abs/2510.18825) | [Code](https://github.com/null-xyj/M3Dphormer)
-
-- **(NeurIPS 2025)** **Deeper with Riemannian Geometry: Overcoming Oversmoothing and Oversquashing for Graph Foundation Models**  
-  [Paper](https://arxiv.org/abs/2510.17457) | [Code](https://github.com/ZhenhHuang/GBN)
-
-
-## Text-Attributed Graph GFMs
-
-- **(WWW 2025)** **GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs**  
-  [Paper](https://arxiv.org/abs/2410.10329) | [Code](https://github.com/ZhuYun97/GraphCLIP)
-
-- **(NeurIPS 2025)** **SSTAG: Structure-Aware Self-Supervised Learning Method for Text-Attributed Graphs**  
-  [Paper](https://arxiv.org/abs/2510.01248) | [Code](https://github.com/Liury925/SSTAG)
-
--  **LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models**  
-  [Paper](https://arxiv.org/abs/2503.03313) | [Code](https://github.com/agiresearch/PromptGFM)
-
-
-## Task-specific GFMs
-
-### Anomaly Detection
-- **(KDD 2025)** **AnomalyGFM: Graph Foundation Model for Zero-shot/Few-shot Anomaly Detection**  
-  [Paper](https://arxiv.org/abs/2502.09254) | [Code](https://github.com/mala-lab/AnomalyGFM)
-
-### Node Classification
-- **(AAAI 2025)** **Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification**  
-  [Paper](https://arxiv.org/abs/2412.15302) 
-
-### Knowledge Graph Reasoning
-- **(NeurIPS 2024)** **A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning**  
-  [Paper](https://arxiv.org/abs/2410.12288) | [Code](https://github.com/nju-websoft/KG-ICL)
-
-### Retrieval Augmented Generation
-- **(NeurIPS 2025)** **GFM-RAG: Graph Foundation Model for Retrieval Augmented Generation**  
-  [Paper](https://arxiv.org/abs/2502.01113) | [Code](https://github.com/RManLuo/gfm-rag)
-
-
-## Adaptive & Incremental GFMs
-
 - **(ICML 2025)** **AutoGFM: Automated Graph Foundation Model with Adaptive Architecture Customization**  
-  [Paper](https://openreview.net/pdf?id=fCPB0qRJT2) 
+  [Paper](https://openreview.net/pdf?id=fCPB0qRJT2)
 
 - **(NeurIPS 2025)** **GraphKeeper: Graph Domain-Incremental Learning via Knowledge Disentanglement and Preservation**  
   [Paper](https://arxiv.org/abs/2511.00097) | [Code](https://github.com/RingBDStack/GraphKeeper)
@@ -80,4 +55,19 @@ Paper List about multi-domain graph foundation models
 ## Federated Graph GFMs
 
 - **(NeurIPS 2025)** **Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement**  
-  [Paper](https://arxiv.org/abs/2505.12684) 
+  [Paper](https://arxiv.org/abs/2505.12684)
+
+
+## Task-specific GFMs
+
+### Anomaly Detection
+- **(KDD 2025)** **AnomalyGFM: Graph Foundation Model for Zero-shot/Few-shot Anomaly Detection**  
+  [Paper](https://arxiv.org/abs/2502.09254) | [Code](https://github.com/mala-lab/AnomalyGFM)
+
+### Node Classification
+- **(AAAI 2025)** **Tokenphormer: Structure-aware Multi-token Graph Transformer for Node Classification**  
+  [Paper](https://arxiv.org/abs/2412.15302)
+
+### Knowledge Graph Reasoning
+- **(NeurIPS 2024)** **A Prompt-Based Knowledge Graph Foundation Model for Universal In-Context Reasoning**  
+  [Paper](https://arxiv.org/abs/2410.12288) | [Code](https://github.com/nju-websoft/KG-ICL)
