@@ -18,8 +18,23 @@ Paper List about multi-domain graph foundation models
 - **(AAAI 2025)** **Unified Graph Neural Networks Pre-training for Multi-domain Graphs**  
   [Paper](https://doi.org/10.1609/aaai.v39i11.33325) | Code: 待补充
 
+- **A Graph Laplacian Eigenvector-based Pre-training Method for Graph Neural Networks**  
+  [Paper](https://arxiv.org/abs/2509.02803) | Code: 待补充  
+
+- **(NeurIPS 2025)Scalable Graph Generative Modeling via Substructure Sequences**  
+  [Paper](https://arxiv.org/abs/2505.16130v2) | [Code](https://github.com/Zehong-Wang/G2PM)  
+  
+- **(WWW 2025)** **UniGraph2: Learning a Unified Embedding Space to Bind Multimodal Graphs**  
+  [Paper](https://arxiv.org/abs/2502.00806) | Code: 待补充  
+
+- **(KDD 2025)** **GraphLoRA: Structure-Aware Contrastive Low-Rank Adaptation for Cross-Graph Transfer Learning**  
+  [Paper](https://arxiv.org/abs/2409.16670v2) | [Code](https://github.com/AllminerLab/GraphLoRA)
+
+
 
 ## Cross-domain Transfer GFMs
+- **（AAAI 2026）SA^2GFM: Enhancing Robust Graph Foundation Models with Structure-Aware Semantic Augmentation**  
+  [Paper](https://arxiv.org/abs/2512.07857) | Code: 待补充  
 
 - **(WWW 2025)** **GraphCLIP: Enhancing Transferability in Graph Foundation Models for Text-Attributed Graphs**  
   [Paper](https://arxiv.org/abs/2410.10329) | [Code](https://github.com/ZhuYun97/GraphCLIP)
@@ -33,9 +48,12 @@ Paper List about multi-domain graph foundation models
 - **LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models**  
   [Paper](https://arxiv.org/abs/2503.03313) | [Code](https://github.com/agiresearch/PromptGFM)
 
-- **（AAAI 2026）SA^2GFM: Enhancing Robust Graph Foundation Models with Structure-Aware Semantic Augmentation**  
-  [Paper](https://arxiv.org/abs/2512.07857) | Code: 待补充  
-  
+- **Toward a Graph Foundation Model: Pre-Training Transformers With Random Walks**  
+  [Paper](https://arxiv.org/abs/2506.14098) | Code: 待补充  
+
+- **(NeurIPS 2025)** **One Prompt Fits All: Universal Graph Adaptation for Pretrained Models**  
+  [Paper](https://arxiv.org/abs/2509.22416) | [Code]https://github.com/hedongxiao-tju/UniPrompt
+
 
 ## General & Adaptive GFMs
 
