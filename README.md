@@ -15,6 +15,9 @@ Paper List about multi-domain graph foundation models
 - **(LoG 2024)** **A Pure Transformer Pretraining Framework on Text-attributed Graphs**  
   [Paper](https://arxiv.org/abs/2406.13873) | [Code](https://github.com/SongYYYY/GSP)
 
+- **(AAAI 2025)** **Unified Graph Neural Networks Pre-training for Multi-domain Graphs**  
+  [Paper](https://doi.org/10.1609/aaai.v39i11.33325) | Code: 待补充
+
 
 ## Cross-domain Transfer GFMs
 
@@ -30,6 +33,9 @@ Paper List about multi-domain graph foundation models
 - **LLM as GNN: Graph Vocabulary Learning for Text-Attributed Graph Foundation Models**  
   [Paper](https://arxiv.org/abs/2503.03313) | [Code](https://github.com/agiresearch/PromptGFM)
 
+- **（AAAI 2026）SA^2GFM: Enhancing Robust Graph Foundation Models with Structure-Aware Semantic Augmentation**  
+  [Paper](https://arxiv.org/abs/2512.07857) | Code: 待补充  
+  
 
 ## General & Adaptive GFMs
 
@@ -50,6 +56,12 @@ Paper List about multi-domain graph foundation models
 
 - **(NeurIPS 2025)** **GRAVER: Generative Graph Vocabularies for Robust Graph Foundation Models Fine-tuning**  
   [Paper](https://arxiv.org/abs/2511.05592) | [Code](https://github.com/RingBDStack/GRAVER)
+
+- **(NeurIPS 2025)** **Enhanced Expert Merging for Mixture-of-Experts in Graph Foundation Models**  
+  [Paper](https://openreview.net/forum?id=fyqqd1lHDb) | Code: 待补充  
+
+- **GMoPE: A Prompt-Expert Mixture Framework for Graph Foundation Models**  
+  [Paper](https://arxiv.org/abs/2511.03251) | Code: 待补充  
 
 
 ## Federated Graph GFMs
